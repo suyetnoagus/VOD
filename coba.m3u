@@ -70,6 +70,9 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
 ======================================================================
+#EXTINF:-1 tvg-id="84892" tvg-logo="" group-title="FILM",Jumbo
+https://www.googleapis.com/drive/v3/files/1Vr5WO9a3ibRIrdQTET9ZgrwJdxVu4Q9m?alt=media&key=AIzaSyBzpqO8qHp5kNBlnr4kAgQahAx-Z3LVOmc
+
 #EXTINF:-1 tvg-id="84892" tvg-logo="" group-title="FILM",Siksa Neraka
 https://www.googleapis.com/drive/v3/files/1Yle6_QI3kKDpyBNXN9a1QGxSAIInINv5?alt=media&key=AIzaSyBzpqO8qHp5kNBlnr4kAgQahAx-Z3LVOmc
 
@@ -132,3 +135,4 @@ https://www.googleapis.com/drive/v3/files/1AVvMCOz3QguPImdMn7RUSZYuPiOLaN2e?alt=
 
 #EXTINF:-1 tvg-id="84893" tvg-logo="" group-title="Bingkai Hati",MAKNA QONA'AH DI KEHIDUPAN SEHARI-HARI
 https://www.googleapis.com/drive/v3/files/1lPj4pcpZPWVjP-CqfmfOPhepoaW6tMVH?alt=media&key=AIzaSyBzpqO8qHp5kNBlnr4kAgQahAx-Z3LVOmc
+
